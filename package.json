@@ -1,0 +1,27 @@
+{
+  "name": "nodejs_captchapng",
+  "version": "1.0.0",
+  "description": "captcha",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodload.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wanghes/nodejs_captchapng.git"
+  },
+  "keywords": [
+    "\"\"\u001b[Dcaptcha"
+  ],
+  "author": "wang_hes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wanghes/nodejs_captchapng/issues"
+  },
+  "homepage": "https://github.com/wanghes/nodejs_captchapng#readme",
+  "dependencies": {
+    "captchapng": "0.0.1",
+    "express": "^4.14.0",
+    "express-session": "^1.14.2"
+  }
+}
