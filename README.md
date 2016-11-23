@@ -1,5 +1,5 @@
 # nodejs_captchapng
-`nodejs captcha examples`
+`nodejs captcha examples`   
 验证码需要将url输出头设置为image/png的mime类型，其次要保存显示码字符串到session中。
 ##首先用npm安装一些相关的包:
 `npm install captchapng`   
