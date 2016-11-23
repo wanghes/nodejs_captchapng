@@ -53,4 +53,4 @@ function randomcodePngController(req , res){
     res.end(imgbase64);
 }
 ```
-访问文档地址：-[capchapng的详细说明地址](http://mousebird.cn/blog/2016/11/09/8)
+访问文档地址：[capchapng的详细说明地址](http://mousebird.cn/blog/2016/11/09/8)
